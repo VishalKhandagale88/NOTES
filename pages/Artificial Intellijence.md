@@ -5,7 +5,7 @@
 - [[Neural Architecture]] we will learn
 - Less popular AI approached [[Genetic Algorithms]] and [[Multi-Agent System]]
 - [[Artificial general intelligence]]
-- /| Weak AI | Strong AI |
+- | Weak AI | Strong AI |
   | ---- | ---- | ---- |
   | Weak AI refers to AI systems that are designed and trained for a specific task or a narrow set of tasks. | Strong AI, or Artificial General Intelligence (AGI), refers to AI systems with human-level intelligence and understanding. |
   | These AI systems are not generally intelligent; they excel in performing a predefined task but lack true understanding or consciousness. | These AI systems have the ability to perform any intellectual task that a human being can do, adapt to different domains, and possess a form of consciousness or self-awareness. |
