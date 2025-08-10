@@ -3,4 +3,5 @@
 - Good Old approach [[Symbolic artificial intelligence]]
 - Core Modern AI [[Neural Networks]] and [[Deep Learning]]
 - [[Neural Architecture]] we will learn
-- Less popular AI approached
+- Less popular AI approached [[Genetic Algorithms]] and [[Multi-Agent System]]
+-
