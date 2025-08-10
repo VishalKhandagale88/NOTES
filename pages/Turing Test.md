@@ -1,2 +1,2 @@
-- [Watch Video](https://youtu.be/-ZS_zFg4w5k)
+- [Turing test vid1](https://youtu.be/-ZS_zFg4w5k)
 -
