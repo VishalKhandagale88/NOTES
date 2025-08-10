@@ -2,4 +2,5 @@
 - [Mind map](https://soshnikov.com/courses/ai-for-beginners/mindmap.html)
 - Good Old approach [[Symbolic artificial intelligence]]
 - Core Modern AI [[Neural Networks]] and [[Deep Learning]]
+- [[Neural Architecture]] we will learn
 -
