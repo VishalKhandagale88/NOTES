@@ -1,1 +1,3 @@
-- [Artificial intelligence for beginners]()
+- [Artificial intelligence for beginners](https://microsoft.github.io/AI-For-Beginners/?id=artificial-intelligence-for-beginners-a-curriculum)
+- ()
+-
