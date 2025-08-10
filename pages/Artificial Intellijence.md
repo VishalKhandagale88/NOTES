@@ -1,4 +1,5 @@
 - [Artificial intelligence for beginners](https://microsoft.github.io/AI-For-Beginners/?id=artificial-intelligence-for-beginners-a-curriculum)
 - [Mind map](https://soshnikov.com/courses/ai-for-beginners/mindmap.html)
 - Good Old approach [[Symbolic artificial intelligence]]
-- Core Modern AI
+- Core Modern AI [[Neural Networks]] and [[Deep Learning]]
+-
