@@ -5,4 +5,4 @@
 - [[Neural Architecture]] we will learn
 - Less popular AI approached [[Genetic Algorithms]] and [[Multi-Agent System]]
 - Weak AI vs. Strong AI
-- /table
+-
