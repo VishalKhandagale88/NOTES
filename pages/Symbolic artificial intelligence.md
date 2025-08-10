@@ -1,0 +1,2 @@
+- **symbolic artificial intelligence** also known classical artificial intelligence **or **logic-based artificial intelligence
+-
