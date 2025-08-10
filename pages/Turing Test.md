@@ -1,2 +1,2 @@
-- [Turing test vid 1]({{video https://youtu.be/-ZS_zFg4w5k?si=kB5DGN-lGokShvXH}})
+- [Watch Video](https://youtu.be/-ZS_zFg4w5k)
 -
