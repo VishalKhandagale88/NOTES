@@ -5,4 +5,4 @@
 - [[Neural Architecture]] we will learn
 - Less popular AI approached [[Genetic Algorithms]] and [[Multi-Agent System]]
 - [[Artificial general intelligence]]
--
+- /mark
