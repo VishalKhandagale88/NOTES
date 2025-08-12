@@ -1,2 +1,3 @@
+- Which also acts like a definition of intelligence
 - [Turing test vid1](https://youtu.be/-ZS_zFg4w5k)
 -
