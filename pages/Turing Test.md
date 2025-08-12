@@ -1,3 +1,4 @@
+- The test compares a given system to something inherently intelligent - a real human being, and because any automatic comparison can be bypassed by a computer program, we use a human interrogator. So, if a human being is unable to distinguish between a real person and a computer system in text-based dialogue - the system is considered intelligent.
 - Which also acts like a definition of intelligence
 - [Turing test vid1](https://youtu.be/-ZS_zFg4w5k)
 -
