@@ -1,4 +1,5 @@
 - [[Open JDK]]
 - [[Quarkusio]]
 - [[Jenkinsci]]
+- [[Jhipster]]
 -
