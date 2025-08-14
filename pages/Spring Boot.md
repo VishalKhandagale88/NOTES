@@ -7,5 +7,5 @@
 - [[netty]]
 - [[Spring Attic]]
 - [[google]]
-- [[Awsem JAVA]]
+- [[Awesome JAVA]]
 -
