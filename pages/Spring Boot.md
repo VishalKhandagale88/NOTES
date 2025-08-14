@@ -4,4 +4,5 @@
 - [[Jhipster]]
 - [[HikariCP]]
 - [[OpenJDK]]
+- [[netty]]
 -
