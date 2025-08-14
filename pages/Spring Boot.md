@@ -8,4 +8,5 @@
 - [[Spring Attic]]
 - [[google]]
 - [[Awesome JAVA]]
+- [[Java Design Patterns]]
 -
