@@ -1,2 +1,2 @@
-- [Awesom](https://github.com/akullpp/awesome-java)
+- [Awesom java](https://github.com/akullpp/awesome-java)
 -
