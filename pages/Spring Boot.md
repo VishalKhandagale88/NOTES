@@ -12,4 +12,5 @@
 - [[project lombok]]
 - [[The Apache Software Foundation]]
 - [[JetBrains]]
+- [[Spring Security]]
 -
