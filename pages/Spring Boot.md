@@ -2,4 +2,5 @@
 - [[Quarkusio]]
 - [[Jenkinsci]]
 - [[Jhipster]]
+- [[HikariCP]]
 -
