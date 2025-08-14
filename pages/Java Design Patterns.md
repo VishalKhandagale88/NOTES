@@ -1,3 +1,3 @@
-- [https://github.com/iluwatar/java-design-patterns](Git hub)
+- [Java design patterns git](https://github.com/iluwatar/java-design-patterns)
 -
 -
