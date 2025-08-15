@@ -1,1 +1,2 @@
-- [G](https://www.geeksforgeeks.org/dsa/array-data-structure-guide/)
+- [GFG Arrays](https://www.geeksforgeeks.org/dsa/array-data-structure-guide/)
+-
