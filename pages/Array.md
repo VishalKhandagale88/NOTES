@@ -1,3 +1,3 @@
 - [GFG Arrays](https://www.geeksforgeeks.org/dsa/array-data-structure-guide/)
-- Alternate Elements of Array Iterative Approach , Recursive Approach
+- [Alternate Elements of Array Iterative Approach , Recursive Approach]
 -
