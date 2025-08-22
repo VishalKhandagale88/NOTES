@@ -1,4 +1,4 @@
 - **This can be reversed**
 - Used for confidentiality
 - Converting data in to unreadable format
-- Examples : [[AAE]]
+- Examples : [[AES]] ,[[RSA]]
