@@ -4,4 +4,3 @@
   
   Exampled :  BCrypt, SHA-256, Argon2
   **Not reversable**
--
