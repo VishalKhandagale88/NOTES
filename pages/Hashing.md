@@ -1,0 +1,1 @@
+- Hashing is a method once we do it there is no reversable process
