@@ -2,5 +2,5 @@
   The actual text was : Vishal
   Hashed text : $2a$10$A3jftSRqlpQzlDE/0mSEcO5vr/Z8yODqllgtugdZt1onKq4XkPONq
   
-  Exampled :  BCrypt, SHA-256, Argon2
+  Exampled : [[BCrypt]] , [[SHA-256]], [[Argon2]]
   **Not reversable**
