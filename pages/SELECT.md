@@ -8,4 +8,4 @@
 - <pre>
   SELECT * FROM TABLE_NAME
   </pre>
-- Explainan
+- Explanation :
