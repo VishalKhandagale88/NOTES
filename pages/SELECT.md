@@ -6,11 +6,6 @@
   | 4  | Martin| Germany | 500   |
   | 5  | Peter | USA     | 0     |
 - <pre>
-  
-  SELECT name, Country, Score
-  FROM Players
-  WHERE Score > 500
-  ORDER BY Score DESC;
+  SELECT * FROM TABLE_NAME
   </pre>
--
--
+- Explainan
