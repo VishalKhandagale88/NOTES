@@ -1,2 +1,0 @@
-- **discoveries come from theories or plans you *already have***
--
