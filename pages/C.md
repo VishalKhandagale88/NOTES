@@ -1,6 +1,5 @@
 - In C programming, when we use printf (to display output) or scanf (to take input), we often use format specifiers like %d, %f, %c, etc. These tell the compiler what type of data we are working with.
--
--
+- https://youtu.be/ssJY5MDLjlo?si=FI9ex4crvgbKMKuc
 - %d → integer
   Used for int values. Example: 23, -10, 1000.
   
