@@ -1,3 +1,2 @@
-- TODO [Basic Video]({{video https://youtu.be/X3Wtjwu0vBI?si=CY71-OeX4XzGZTSO}})
 -
 -
