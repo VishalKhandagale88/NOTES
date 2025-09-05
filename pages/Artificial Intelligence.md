@@ -15,4 +15,4 @@
 - There is no clear definition of this term called [[Intelligence]]. One can argue that intelligence is connected with [[abstract thinking]] or **self-awareness**, but we cannot properly define it.
 - [[Alan Turing]] who proposed the [[Turing Test]]
 -
--
+- [[Tokenization]]
