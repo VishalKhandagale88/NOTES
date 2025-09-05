@@ -1,2 +1,3 @@
 - [[Byte Pair Encoding]]
+- After tokenization [[Embeddings]] comes into play
 -
